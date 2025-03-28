@@ -18,16 +18,20 @@ export default {
     }
   },
   upload: {
-    title: '파일을 여기에 드래그하거나 클릭하여 업로드',
-    subtitle: 'PDF, Word, TXT 등 다양한 형식 지원',
+    title: '파일을 여기에 드롭하거나 클릭하여 업로드',
+    subtitle: 'PDF, Word, TXT 등 지원',
     button: '파일 선택',
-    converting: '분석 중...',
-    success: '분석 완료',
-    error: '분석 실패',
+    converting: '생성 중...',
+    success: '생성 완료',
+    error: '생성 실패',
     retry: '다시 시도',
     cancel: '취소',
-    fileSizeExceeded: '파일 크기가 제한을 초과했습니다. 업그레이드하세요',
+    fileSizeExceeded: '파일 크기가 제한을 초과했습니다. 업그레이드가 필요합니다',
     needLogin: '파일을 업로드하려면 먼저 로그인하세요'
+  },
+  input: {
+    submit: '아이디어 제출',
+    placeholder: '창의적인 아이디어와 주요 기능을 설명해주세요...'
   },
   preview: {
     title: '분석 리포트 미리보기',

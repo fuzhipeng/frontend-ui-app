@@ -18,16 +18,20 @@ export default {
     }
   },
   upload: {
-    title: 'Glissez les fichiers ici ou cliquez pour télécharger',
-    subtitle: 'Prend en charge PDF, Word, TXT et autres formats',
-    button: 'Sélectionner un fichier',
+    title: 'Déposez les fichiers ici ou cliquez pour télécharger',
+    subtitle: 'Prend en charge PDF, Word, TXT et plus',
+    button: 'Choisir un fichier',
     converting: 'Génération...',
     success: 'Génération terminée',
-    error: 'Erreur de génération',
+    error: 'Échec de la génération',
     retry: 'Réessayer',
     cancel: 'Annuler',
-    fileSizeExceeded: 'Taille de fichier dépassée. Mise à niveau requise',
+    fileSizeExceeded: 'La taille du fichier dépasse la limite, veuillez mettre à niveau',
     needLogin: 'Veuillez vous connecter pour télécharger des fichiers'
+  },
+  input: {
+    submit: 'Soumettre l\'idée',
+    placeholder: 'Décrivez votre idée créative et ses fonctionnalités principales...'
   },
   preview: {
     title: 'Aperçu de la Carte de Présentation',

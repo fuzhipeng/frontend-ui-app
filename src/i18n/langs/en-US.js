@@ -51,6 +51,10 @@ export default {
     fileSizeExceeded: 'File size exceeds limit, please upgrade',
     needLogin: 'Please login first to upload files'
   },
+  input: {
+    submit: 'Submit Idea',
+    placeholder: 'Describe your creative idea and main features...'
+  },
   preview: {
     title: 'Preview Self Introduction Card',
     download: 'Download HTML',

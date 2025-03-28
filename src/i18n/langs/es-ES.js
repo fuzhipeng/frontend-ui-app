@@ -29,6 +29,10 @@ export default {
     fileSizeExceeded: 'Tamaño de archivo excedido. Se requiere actualización',
     needLogin: 'Por favor inicia sesión para cargar archivos'
   },
+  input: {
+    submit: 'Enviar idea',
+    placeholder: 'Describe tu idea creativa y funciones principales...'
+  },
   preview: {
     title: 'Vista Previa de la Tarjeta de Autopresentación',
     download: 'Descargar HTML',

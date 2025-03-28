@@ -29,6 +29,10 @@ export default {
     fileSizeExceeded: 'Dateigröße überschreitet das Limit. Upgrade erforderlich',
     needLogin: 'Bitte melden Sie sich an, um Dateien hochzuladen'
   },
+  input: {
+    submit: 'Idee einreichen',
+    placeholder: 'Beschreiben Sie Ihre kreative Idee und Hauptfunktionen...'
+  },
   preview: {
     title: 'Vorschau der Selbstvorstellungskarte',
     download: 'HTML herunterladen',

@@ -50,6 +50,10 @@ export default {
     fileSizeExceeded: 'ファイルサイズが制限を超えています。アップグレードしてください',
     needLogin: 'ファイルをアップロードするには、まずログインしてください'
   },
+  input: {
+    submit: 'アイデアを提出',
+    placeholder: 'あなたのクリエイティブなアイデアと主な機能を説明してください...'
+  },
   preview: {
     title: '分析レポートのプレビュー',
     download: 'HTMLをダウンロード',
