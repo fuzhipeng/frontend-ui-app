@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 文档背景 -->
+  <path d="M6 4C6 2.89543 6.89543 2 8 2H18L26 10V28C26 29.1046 25.1046 30 24 30H8C6.89543 30 6 29.1046 6 28V4Z" fill="#d4a055"/>
+  
+  <!-- 文档折角 -->
+  <path d="M18 2L26 10H20C18.8954 10 18 9.10457 18 8V2Z" fill="#b38544"/>
+  
+  <!-- AI文字和装饰 -->
+  <path d="M11 14H13L15 22H13L12.5 20H11.5L11 22H9L11 14ZM12 16L11.75 18H12.25L12 16Z" fill="white"/>
+  <path d="M16 14H18V22H16V14Z" fill="white"/>
+  
+  <!-- 电路图案装饰 -->
+  <path d="M10 24H22" stroke="white" stroke-width="0.5"/>
+  <path d="M14 23V25" stroke="white" stroke-width="0.5"/>
+  <path d="M18 23V25" stroke="white" stroke-width="0.5"/>
+</svg> 
