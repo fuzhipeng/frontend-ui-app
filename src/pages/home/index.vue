@@ -155,7 +155,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watch } from 'vue'
+import { ref, computed, watch, nextTick } from 'vue'
 import { ElMessage } from 'element-plus'
 import { UploadFilled, Document, Money, Star, Reading, Lock, MagicStick, Medal, ArrowDown, SwitchButton, Setting } from '@element-plus/icons-vue'
 import Testimonials from '@/components/Testimonials.vue'
@@ -730,11 +730,27 @@ const startConvert = async () => {
     }
 
     // 发送请求
-    const response = await axios.post(`${apiBaseUrl.value}/api/creative/convert`, formData)
+    const response = await axios.post(`${apiBaseUrl.value}/api/file/stringUiData`, formData)
     
-    // 处理响应...
-    // [保持原有的响应处理逻辑]
-    
+    // 处理响应
+    if (response.data.code === 200) {
+      // 直接从resultString获取HTML内容
+      previewHtml.value = response.data.data.resultString
+      
+      // 更新UI状态
+      convertProgress.value = 100
+      convertStatus.value = 'success'
+      previewLoading.value = false
+      
+      // 渲染预览
+      if (!directDisplay.value) {
+        nextTick(() => {
+          renderHTMLInIframe()
+        })
+      }
+    } else {
+      throw new Error(response.data.message || '转换失败')
+    }
   } catch (error) {
     console.error('转换过程中出错:', error)
     convertStatus.value = 'exception'
