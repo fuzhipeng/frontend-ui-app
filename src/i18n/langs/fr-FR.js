@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'IntroCard AI - Générateur de Cartes de Présentation',
+    home: 'Convertisseur de Prototypes Créatifs - Outil de Visualisation Piloté par IA',
     features: 'Fonctionnalités',
     faq: 'FAQ',
     pricing: 'Tarifs',
@@ -8,13 +8,13 @@ export default {
     points: 'Points: {points}'
   },
   hero: {
-    title: 'IntroCard AI - Générateur de Cartes de Présentation',
-    subtitle: 'Transformez votre texte de présentation en magnifiques cartes visuelles grâce à la technologie IA. Saisissez simplement votre texte et notre IA créera automatiquement des cartes de présentation professionnelles et visuellement attrayantes, parfaites pour les réseaux sociaux, les CV ou les profils professionnels.',
+    title: 'Convertisseur de Prototypes Créatifs - Outil de Visualisation Piloté par IA',
+    subtitle: 'Transformez vos concepts créatifs en prototypes interactifs haute fidélité. Décrivez simplement vos idées et notre IA créera automatiquement des prototypes d\'interface professionnels et visuellement attrayants, parfaits pour la conception de produits, les tests d\'expérience utilisateur et la collaboration en équipe.',
     tags: {
-      free: 'Gratuit',
-      ai: 'Design IA Intelligent',
-      noRegister: 'Sans Inscription',
-      unlimited: 'Génération Illimitée'
+      ai: 'Design IA',
+      interactive: 'Prototype Interactif',
+      fast: 'Génération Rapide',
+      professional: 'Résultat Professionnel'
     }
   },
   upload: {
@@ -31,7 +31,7 @@ export default {
   },
   input: {
     submit: 'Soumettre l\'idée',
-    placeholder: 'Décrivez votre idée créative et ses fonctionnalités principales...'
+    placeholder: 'Veuillez décrire vos idées créatives et fonctionnalités principales...'
   },
   preview: {
     title: 'Aperçu de la Carte de Présentation',
@@ -41,33 +41,51 @@ export default {
     copyError: 'Erreur de copie',
     noContent: 'Pas de contenu'
   },
+  workflow: {
+    title: 'Comment utiliser le Convertisseur de Prototypes Créatifs',
+    subtitle: '3 étapes simples pour transformer les idées en prototypes',
+    steps: {
+      submit: {
+        title: 'Soumettre l\'idée',
+        desc: 'Décrivez votre concept créatif et vos exigences'
+      },
+      generate: {
+        title: 'Génération IA',
+        desc: 'L\'IA analyse automatiquement les exigences et crée le prototype'
+      },
+      preview: {
+        title: 'Aperçu et optimisation',
+        desc: 'Examinez l\'effet du prototype et effectuez des ajustements'
+      }
+    }
+  },
   features: {
-    title: 'Fonctionnalités Principales du Générateur de Cartes de Présentation IA',
-    subtitle: 'Découvrez la Prochaine Génération de Création de Cartes de Présentation avec IA - Design Intelligent, Aspect Professionnel, Multifonctionnel',
+    title: 'Fonctionnalités principales du Convertisseur de Prototypes Créatifs',
+    subtitle: 'Découvrez l\'outil de visualisation de nouvelle génération - Design intelligent, résultat professionnel, application multifonctionnelle',
     cards: {
-      free: {
-        title: 'Gratuit',
-        desc: 'Générateur de cartes de présentation IA entièrement gratuit, sans limite d\'utilisation, sans inscription nécessaire.'
+      ai: {
+        title: 'Design IA',
+        desc: 'Utilise une technologie IA avancée pour comprendre automatiquement les exigences créatives et créer des prototypes d\'interface professionnels'
       },
-      quality: {
-        title: 'Design Professionnel',
-        desc: 'Cartes créées par IA avec un design visuel professionnel qui met en valeur vos qualités personnelles.'
+      interactive: {
+        title: 'Prototype Interactif',
+        desc: 'Crée des prototypes interactifs de haute qualité qui prennent en charge l\'interaction utilisateur et les tests d\'expérience'
       },
-      smart: {
-        title: 'Génération Intelligente',
-        desc: 'Extrait automatiquement les informations clés de votre texte pour la présentation visuelle.'
+      fast: {
+        title: 'Génération Rapide',
+        desc: 'Crée des prototypes complets en quelques minutes, améliorant significativement l\'efficacité de la conception'
       },
-      privacy: {
-        title: 'Protection de la Confidentialité',
-        desc: 'Utilisation de la technologie de cryptage avancée pour garantir la sécurité de vos informations personnelles, suppression immédiate après le traitement.'
+      professional: {
+        title: 'Résultat Professionnel',
+        desc: 'Crée des prototypes professionnels qui répondent aux normes de conception et sont prêts pour le développement'
       },
-      understanding: {
-        title: 'Adaptation aux Scénarios',
-        desc: 'Prise en charge des cartes de présentation pour les profils de réseaux sociaux, les candidatures d\'emploi, les sites web personnels et plus encore.'
+      customizable: {
+        title: 'Haute Personnalisation',
+        desc: 'Prend en charge les styles personnalisés, les interactions et les mises en page pour différents besoins'
       },
-      advanced: {
-        title: 'Support Multilingue',
-        desc: 'Créez des présentations dans plusieurs langues, y compris le français et l\'anglais.'
+      shareable: {
+        title: 'Partage Facile',
+        desc: 'Partagez des prototypes en un clic pour la collaboration en équipe et la collecte de commentaires'
       }
     }
   },

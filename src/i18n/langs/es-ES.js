@@ -1,20 +1,20 @@
 export default {
   nav: {
-    home: 'IntroCard AI - Generador de Tarjetas de Autopresentación',
-    features: 'Características',
-    faq: 'Preguntas Frecuentes',
+    home: 'Convertidor de Prototipos Creativos - Herramienta de Visualización Impulsada por IA',
+    features: 'Funciones',
+    faq: 'FAQ',
     pricing: 'Precios',
-    login: 'Iniciar Sesión',
+    login: 'Iniciar sesión',
     points: 'Puntos: {points}'
   },
   hero: {
-    title: 'IntroCard AI - Generador de Tarjetas de Autopresentación',
-    subtitle: 'Transforma tu texto de autopresentación en hermosas tarjetas visuales utilizando tecnología de IA. Simplemente ingresa tu texto y nuestra IA creará automáticamente tarjetas de autopresentación profesionales y visualmente atractivas, perfectas para redes sociales, currículos o perfiles profesionales.',
+    title: 'Convertidor de Prototipos Creativos - Herramienta de Visualización Impulsada por IA',
+    subtitle: 'Convierte tus conceptos creativos en prototipos interactivos de alta fidelidad. Simplemente describe tus ideas y nuestra IA creará automáticamente prototipos de interfaz profesionales y visualmente atractivos, perfectos para el diseño de productos, pruebas de experiencia de usuario y colaboración en equipo.',
     tags: {
-      free: 'Gratis',
-      ai: 'Diseño Inteligente IA',
-      noRegister: 'Sin Registro',
-      unlimited: 'Generación Ilimitada'
+      ai: 'Diseño IA',
+      interactive: 'Prototipo Interactivo',
+      fast: 'Generación Rápida',
+      professional: 'Resultado Profesional'
     }
   },
   upload: {
@@ -31,7 +31,7 @@ export default {
   },
   input: {
     submit: 'Enviar idea',
-    placeholder: 'Describe tu idea creativa y funciones principales...'
+    placeholder: 'Por favor, describe tus ideas creativas y funciones principales...'
   },
   preview: {
     title: 'Vista Previa de la Tarjeta de Autopresentación',
@@ -42,32 +42,32 @@ export default {
     noContent: 'Sin contenido'
   },
   features: {
-    title: 'Características Principales del Generador de Tarjetas de Autopresentación con IA',
-    subtitle: 'Experimenta la Próxima Generación de Creación de Tarjetas de Autopresentación con IA - Diseño Inteligente, Aspecto Profesional, Multifuncional',
+    title: 'Funciones principales del Convertidor de Prototipos Creativos',
+    subtitle: 'Experimenta la herramienta de visualización de próxima generación - Diseño inteligente, resultado profesional, aplicación multifuncional',
     cards: {
-      free: {
-        title: 'Gratis',
-        desc: 'Generador de tarjetas de autopresentación con IA completamente gratuito, sin límites de uso, sin necesidad de registro.'
+      ai: {
+        title: 'Diseño IA',
+        desc: 'Utiliza tecnología avanzada de IA para comprender automáticamente los requisitos creativos y crear prototipos de interfaz profesionales'
       },
-      quality: {
-        title: 'Diseño Profesional',
-        desc: 'Tarjetas creadas por IA con diseño visual profesional que resalta tus cualidades personales.'
+      interactive: {
+        title: 'Prototipo Interactivo',
+        desc: 'Crea prototipos interactivos de alta calidad que admiten interacción del usuario y pruebas de experiencia'
       },
-      smart: {
-        title: 'Generación Inteligente',
-        desc: 'Extrae automáticamente información clave de tu texto para la presentación visual.'
+      fast: {
+        title: 'Generación Rápida',
+        desc: 'Crea prototipos completos en minutos, mejorando significativamente la eficiencia del diseño'
       },
-      privacy: {
-        title: 'Protección de Privacidad',
-        desc: 'Utilizamos tecnología de encriptación avanzada para garantizar la seguridad de tu información personal, eliminándola inmediatamente después del procesamiento.'
+      professional: {
+        title: 'Resultado Profesional',
+        desc: 'Crea prototipos profesionales que cumplen con los estándares de diseño y están listos para el desarrollo'
       },
-      understanding: {
-        title: 'Adaptación a Escenarios',
-        desc: 'Soporte para tarjetas de autopresentación en perfiles de redes sociales, solicitudes de empleo, sitios web personales y más.'
+      customizable: {
+        title: 'Alta Personalización',
+        desc: 'Admite estilos personalizados, interacciones y diseños para diferentes necesidades'
       },
-      advanced: {
-        title: 'Soporte Multilingüe',
-        desc: 'Crea autopresentaciones en múltiples idiomas, incluyendo español e inglés.'
+      shareable: {
+        title: 'Compartir Fácil',
+        desc: 'Comparte prototipos con un clic para colaboración en equipo y recopilación de comentarios'
       }
     },
     examples: {
@@ -145,20 +145,20 @@ export default {
     loading: 'Cargando...'
   },
   workflow: {
-    title: 'Cómo usar el Generador de Tarjetas de Presentación con IA',
-    subtitle: 'Cree hermosas tarjetas de presentación en 3 sencillos pasos',
+    title: 'Cómo usar el Convertidor de Prototipos Creativos',
+    subtitle: '3 pasos simples para convertir ideas en prototipos',
     steps: {
-      upload: {
-        title: 'Suba su archivo',
-        desc: 'Simplemente suba su archivo con información personal para comenzar'
+      submit: {
+        title: 'Enviar idea',
+        desc: 'Describe tu concepto creativo y requisitos'
       },
-      analyze: {
-        title: 'Análisis de IA',
-        desc: 'La IA extrae automáticamente la información clave y genera una hermosa tarjeta'
+      generate: {
+        title: 'Generación IA',
+        desc: 'La IA analiza automáticamente los requisitos y crea el prototipo'
       },
-      download: {
-        title: 'Descargar y Compartir',
-        desc: 'Descargue su hermosa tarjeta de presentación y compártala donde quiera'
+      preview: {
+        title: 'Vista previa y optimización',
+        desc: 'Revisa el efecto del prototipo y realiza ajustes'
       }
     }
   },

@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'IntroCard AI - Smart Self-Introduction Card Generator',
+    home: 'Creative Prototype Converter - AI-Powered Creative Visualization Tool',
     features: 'Features',
     faq: 'FAQ',
     pricing: 'Pricing',
@@ -12,31 +12,31 @@ export default {
     loading: 'Loading...'
   },
   workflow: {
-    title: 'How to Use AI Self Introduction Card Generator',
-    subtitle: 'Create beautiful self-introduction cards in 3 simple steps',
+    title: 'How to Use Creative Prototype Converter',
+    subtitle: '3 Simple Steps to Transform Ideas into Prototypes',
     steps: {
-      upload: {
-        title: 'Upload Your Text',
-        desc: 'Simply upload your self-introduction text to get started'
+      submit: {
+        title: 'Submit Idea',
+        desc: 'Describe your creative concept and requirements'
       },
-      analyze: {
-        title: 'AI Analysis',
-        desc: 'AI automatically extracts key information and generates a beautiful card'
+      generate: {
+        title: 'AI Generation',
+        desc: 'AI automatically analyzes requirements and generates prototype'
       },
-      download: {
-        title: 'Download & Share',
-        desc: 'Download your beautiful self-introduction card and share it anywhere'
+      preview: {
+        title: 'Preview & Optimize',
+        desc: 'Preview prototype effect and make adjustments'
       }
     }
   },
   hero: {
-    title: 'IntroCard AI - Smart Self-Introduction Card Generator',
-    subtitle: 'Transform your self-introduction text into beautiful visual cards using AI technology. Simply input your text, and our AI will automatically create professional, visually appealing self-introduction cards, perfect for social media, resumes, or professional profiles.',
+    title: 'Creative Prototype Converter - AI-Powered Creative Visualization Tool',
+    subtitle: 'Transform your creative concepts into high-fidelity interactive prototypes. Simply describe your ideas, and our AI will automatically generate professional, visually appealing prototype interfaces, perfect for product design, user experience testing, and team collaboration.',
     tags: {
-      free: 'Free',
       ai: 'AI Smart Design',
-      noRegister: 'No Registration',
-      unlimited: 'Unlimited Generation'
+      interactive: 'Interactive Prototype',
+      fast: 'Fast Generation',
+      professional: 'Professional Output'
     }
   },
   upload: {
@@ -53,7 +53,7 @@ export default {
   },
   input: {
     submit: 'Submit Idea',
-    placeholder: 'Describe your creative idea and main features...'
+    placeholder: 'Please describe your creative ideas and main features...'
   },
   preview: {
     title: 'Preview Self Introduction Card',
@@ -64,32 +64,32 @@ export default {
     noContent: 'No content available'
   },
   features: {
-    title: 'Main Features of AI Self Introduction Card Generator',
-    subtitle: 'Experience Next-Gen AI Self Introduction Card Generation - Smart Design, Professional Look, Multi-Scene Application',
+    title: 'Key Features of Creative Prototype Converter',
+    subtitle: 'Experience Next-Generation Creative Visualization Tool - Smart Design, Professional Output, Multi-Scenario Application',
     cards: {
-      free: {
-        title: 'Free to Use',
-        desc: 'Completely free AI self-introduction card generator, no usage restrictions, no registration required.'
+      ai: {
+        title: 'AI Smart Design',
+        desc: 'Using advanced AI technology to automatically understand creative requirements and generate professional prototype interfaces'
       },
-      quality: {
-        title: 'Professional Design',
-        desc: 'AI-generated cards with professional visual design highlighting your personal traits.'
+      interactive: {
+        title: 'Interactive Prototype',
+        desc: 'Generate high-fidelity interactive prototypes that support user operation and experience testing'
       },
-      smart: {
-        title: 'Smart Generation',
-        desc: 'Automatically extracts key information from your input for visual presentation.'
+      fast: {
+        title: 'Fast Generation',
+        desc: 'Generate complete prototypes in minutes, greatly improving design efficiency'
       },
-      privacy: {
-        title: 'Privacy Protection',
-        desc: 'Using advanced encryption technology to ensure your personal information security, immediate deletion after processing.'
+      professional: {
+        title: 'Professional Output',
+        desc: 'Generate professional prototypes that comply with design standards and can be used directly for development'
       },
-      understanding: {
-        title: 'Scene Adaptation',
-        desc: 'Support for self-introduction cards for social media profiles, job applications, personal websites, and more.'
+      customizable: {
+        title: 'Highly Customizable',
+        desc: 'Support custom styles, interactions, and layouts to meet different needs'
       },
-      advanced: {
-        title: 'Multi-language Support',
-        desc: 'Generate self-introductions in multiple languages including English and Chinese.'
+      shareable: {
+        title: 'Easy Sharing',
+        desc: 'Share prototypes with one click for team collaboration and feedback collection'
       }
     },
     examples: {

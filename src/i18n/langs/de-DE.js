@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'IntroCard AI - KI-Selbstvorstellungskarten-Generator',
+    home: 'Kreative Prototyp-Konverter - KI-gestütztes kreatives Visualisierungstool',
     features: 'Funktionen',
     faq: 'FAQ',
     pricing: 'Preise',
@@ -8,13 +8,13 @@ export default {
     points: 'Punkte: {points}'
   },
   hero: {
-    title: 'IntroCard AI - KI-Selbstvorstellungskarten-Generator',
-    subtitle: 'Verwandeln Sie Ihren Selbstvorstellungstext mit KI-Technologie in schöne visuelle Karten. Geben Sie einfach Ihren Text ein, und unsere KI erstellt automatisch professionelle, optisch ansprechende Selbstvorstellungskarten, perfekt für soziale Medien, Lebensläufe oder berufliche Profile.',
+    title: 'Kreative Prototyp-Konverter - KI-gestütztes kreatives Visualisierungstool',
+    subtitle: 'Verwandeln Sie Ihre kreativen Konzepte in interaktive Prototypen mit hoher Wiedergabetreue. Beschreiben Sie einfach Ihre Ideen, und unsere KI generiert automatisch professionelle, visuell ansprechende Prototyp-Schnittstellen, perfekt für Produktdesign, Benutzerfreundlichkeitstests und Teamzusammenarbeit.',
     tags: {
-      free: 'Kostenlos',
       ai: 'KI-Smart-Design',
-      noRegister: 'Keine Registrierung',
-      unlimited: 'Unbegrenzte Generierung'
+      interactive: 'Interaktiver Prototyp',
+      fast: 'Schnelle Generierung',
+      professional: 'Professionelle Ausgabe'
     }
   },
   upload: {
@@ -31,7 +31,7 @@ export default {
   },
   input: {
     submit: 'Idee einreichen',
-    placeholder: 'Beschreiben Sie Ihre kreative Idee und Hauptfunktionen...'
+    placeholder: 'Bitte beschreiben Sie Ihre kreativen Ideen und Hauptfunktionen...'
   },
   preview: {
     title: 'Vorschau der Selbstvorstellungskarte',
@@ -42,32 +42,32 @@ export default {
     noContent: 'Kein Inhalt'
   },
   features: {
-    title: 'Hauptfunktionen des KI-Selbstvorstellungskarten-Generators',
-    subtitle: 'Erleben Sie die nächste Generation der KI-Selbstvorstellungskarten - Intelligentes Design, Professionelles Aussehen, Mehrzweckanwendung',
+    title: 'Hauptfunktionen des Kreativen Prototyp-Konverters',
+    subtitle: 'Erleben Sie das kreative Visualisierungstool der nächsten Generation - Intelligentes Design, professionelle Ausgabe, Multi-Szenario-Anwendung',
     cards: {
-      free: {
-        title: 'Kostenlos',
-        desc: 'Völlig kostenloser KI-Selbstvorstellungskarten-Generator, keine Nutzungsbeschränkungen, keine Registrierung erforderlich.'
+      ai: {
+        title: 'KI-Smart-Design',
+        desc: 'Verwendet fortschrittliche KI-Technologie, um kreative Anforderungen automatisch zu verstehen und professionelle Prototyp-Schnittstellen zu generieren'
       },
-      quality: {
-        title: 'Professionelles Design',
-        desc: 'KI-generierte Karten mit professionellem visuellem Design, das Ihre persönlichen Eigenschaften hervorhebt.'
+      interactive: {
+        title: 'Interaktiver Prototyp',
+        desc: 'Generiert hochwertige interaktive Prototypen, die Benutzerbedienung und Erfahrungstests unterstützen'
       },
-      smart: {
-        title: 'Intelligente Generierung',
-        desc: 'Extrahiert automatisch wichtige Informationen aus Ihrer Eingabe für die visuelle Darstellung.'
+      fast: {
+        title: 'Schnelle Generierung',
+        desc: 'Generiert vollständige Prototypen in Minuten und verbessert die Designeffizienz erheblich'
       },
-      privacy: {
-        title: 'Datenschutz',
-        desc: 'Verwendung fortschrittlicher Verschlüsselungstechnologie zum Schutz Ihrer persönlichen Daten, sofortige Löschung nach der Verarbeitung.'
+      professional: {
+        title: 'Professionelle Ausgabe',
+        desc: 'Generiert professionelle Prototypen, die Designstandards entsprechen und direkt für die Entwicklung verwendet werden können'
       },
-      understanding: {
-        title: 'Szenarienanpassung',
-        desc: 'Unterstützung für Selbstvorstellungskarten für Social-Media-Profile, Bewerbungen, persönliche Websites und mehr.'
+      customizable: {
+        title: 'Hochgradig anpassbar',
+        desc: 'Unterstützt benutzerdefinierte Stile, Interaktionen und Layouts für verschiedene Bedürfnisse'
       },
-      advanced: {
-        title: 'Mehrsprachenunterstützung',
-        desc: 'Generieren Sie Selbstvorstellungen in mehreren Sprachen, einschließlich Deutsch und Englisch.'
+      shareable: {
+        title: 'Einfaches Teilen',
+        desc: 'Teilen Sie Prototypen mit einem Klick für Teamzusammenarbeit und Feedback-Sammlung'
       }
     },
     examples: {
@@ -145,20 +145,20 @@ export default {
     loading: 'Wird geladen...'
   },
   workflow: {
-    title: 'So verwenden Sie den KI-Visitenkarten-Generator',
-    subtitle: 'Erstellen Sie schöne Visitenkarten in 3 einfachen Schritten',
+    title: 'Wie man den Kreativen Prototyp-Konverter verwendet',
+    subtitle: '3 einfache Schritte zur Umwandlung von Ideen in Prototypen',
     steps: {
-      upload: {
-        title: 'Datei hochladen',
-        desc: 'Laden Sie einfach Ihre Datei mit persönlichen Informationen hoch'
+      submit: {
+        title: 'Idee einreichen',
+        desc: 'Beschreiben Sie Ihr kreatives Konzept und Ihre Anforderungen'
       },
-      analyze: {
-        title: 'KI-Analyse',
-        desc: 'KI extrahiert automatisch wichtige Informationen und erstellt eine schöne Karte'
+      generate: {
+        title: 'KI-Generierung',
+        desc: 'KI analysiert automatisch Anforderungen und generiert Prototyp'
       },
-      download: {
-        title: 'Herunterladen & Teilen',
-        desc: 'Laden Sie Ihre schöne Visitenkarte herunter und teilen Sie sie überall'
+      preview: {
+        title: 'Vorschau & Optimierung',
+        desc: 'Prototyp-Effekt vorschauen und Anpassungen vornehmen'
       }
     }
   },
