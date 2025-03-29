@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'Convertisseur de Prototypes Créatifs - Outil de Visualisation Piloté par IA',
+    home: 'Ideafy AI - Outil de Visualisation Piloté par IA',
     features: 'Fonctionnalités',
     faq: 'FAQ',
     pricing: 'Tarifs',
@@ -8,7 +8,7 @@ export default {
     points: 'Points: {points}'
   },
   hero: {
-    title: 'Convertisseur de Prototypes Créatifs - Outil de Visualisation Piloté par IA',
+    title: 'Ideafy AI - Outil de Visualisation Piloté par IA',
     subtitle: 'Transformez vos concepts créatifs en prototypes interactifs haute fidélité. Décrivez simplement vos idées et notre IA créera automatiquement des prototypes d\'interface professionnels et visuellement attrayants, parfaits pour la conception de produits, les tests d\'expérience utilisateur et la collaboration en équipe.',
     tags: {
       ai: 'Design IA',
@@ -42,7 +42,7 @@ export default {
     noContent: 'Pas de contenu'
   },
   workflow: {
-    title: 'Comment utiliser le Convertisseur de Prototypes Créatifs',
+    title: 'Comment utiliser Ideafy AI',
     subtitle: '3 étapes simples pour transformer les idées en prototypes',
     steps: {
       submit: {
@@ -60,7 +60,7 @@ export default {
     }
   },
   features: {
-    title: 'Fonctionnalités principales du Convertisseur de Prototypes Créatifs',
+    title: 'Fonctionnalités principales d\'Ideafy AI',
     subtitle: 'Découvrez l\'outil de visualisation de nouvelle génération - Design intelligent, résultat professionnel, application multifonctionnelle',
     cards: {
       ai: {
@@ -110,5 +110,9 @@ export default {
         a: 'Nous accordons une grande importance à votre confidentialité. Le contenu de présentation que vous fournissez est uniquement utilisé pour créer les cartes et ne sera pas utilisé à d\'autres fins.'
       }
     ]
+  },
+  login: {
+    title: 'Connexion à Ideafy AI',
+    subtitle: 'Découvrez les meilleures fonctionnalités de Ideafy AI : traitement de documents plus rapide et préservation avancée du format',
   }
 }

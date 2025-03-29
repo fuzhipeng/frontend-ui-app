@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'Convertidor de Prototipos Creativos - Herramienta de Visualización Impulsada por IA',
+    home: 'Ideafy AI - Herramienta de Visualización Impulsada por IA',
     features: 'Funciones',
     faq: 'FAQ',
     pricing: 'Precios',
@@ -8,7 +8,7 @@ export default {
     points: 'Puntos: {points}'
   },
   hero: {
-    title: 'Convertidor de Prototipos Creativos - Herramienta de Visualización Impulsada por IA',
+    title: 'Ideafy AI - Herramienta de Visualización Impulsada por IA',
     subtitle: 'Convierte tus conceptos creativos en prototipos interactivos de alta fidelidad. Simplemente describe tus ideas y nuestra IA creará automáticamente prototipos de interfaz profesionales y visualmente atractivos, perfectos para el diseño de productos, pruebas de experiencia de usuario y colaboración en equipo.',
     tags: {
       ai: 'Diseño IA',
@@ -42,7 +42,7 @@ export default {
     noContent: 'Sin contenido'
   },
   features: {
-    title: 'Funciones principales del Convertidor de Prototipos Creativos',
+    title: 'Funciones principales de Ideafy AI',
     subtitle: 'Experimenta la herramienta de visualización de próxima generación - Diseño inteligente, resultado profesional, aplicación multifuncional',
     cards: {
       ai: {
@@ -145,7 +145,7 @@ export default {
     loading: 'Cargando...'
   },
   workflow: {
-    title: 'Cómo usar el Convertidor de Prototipos Creativos',
+    title: 'Cómo usar Ideafy AI',
     subtitle: '3 pasos simples para convertir ideas en prototipos',
     steps: {
       submit: {
@@ -163,8 +163,8 @@ export default {
     }
   },
   login: {
-    title: 'Iniciar sesión en IntroCard AI',
-    subtitle: 'Experimente las mejores características de IntroCard AI: procesamiento de documentos más rápido y preservación avanzada de formatos',
+    title: 'Iniciar sesión en Ideafy AI',
+    subtitle: 'Experimente las mejores características de Ideafy AI: procesamiento de documentos más rápido y preservación avanzada de formato',
     terms: 'Al iniciar sesión, aceptas nuestros',
     termsLink: 'Términos de servicio y Política de privacidad',
     success: 'Inicio de sesión exitoso',
@@ -187,7 +187,7 @@ export default {
   },
   pricing: {
     title: 'Elija Su Plan',
-    subtitle: 'Experimente las mejores características de IntroCard AI: procesamiento de documentos más rápido y preservación avanzada de formatos',
+    subtitle: 'Experimente las mejores características de Ideafy AI: procesamiento de documentos más rápido y preservación avanzada de formatos',
     monthly: 'Suscripción mensual',
     yearly: 'Suscripción anual (Ahorre 20%)',
     highTier: {

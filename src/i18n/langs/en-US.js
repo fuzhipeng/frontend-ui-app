@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'Creative Prototype Converter - AI-Powered Creative Visualization Tool',
+    home: 'Ideafy AI - AI-Powered Creative Visualization Tool',
     features: 'Features',
     faq: 'FAQ',
     pricing: 'Pricing',
@@ -12,7 +12,7 @@ export default {
     loading: 'Loading...'
   },
   workflow: {
-    title: 'How to Use Creative Prototype Converter',
+    title: 'How to Use Ideafy AI',
     subtitle: '3 Simple Steps to Transform Ideas into Prototypes',
     steps: {
       submit: {
@@ -21,19 +21,19 @@ export default {
       },
       generate: {
         title: 'AI Generation',
-        desc: 'AI automatically analyzes requirements and generates prototype'
+        desc: 'AI automatically analyzes requirements and creates prototype'
       },
       preview: {
         title: 'Preview & Optimize',
-        desc: 'Preview prototype effect and make adjustments'
+        desc: 'Review prototype effect and make adjustments'
       }
     }
   },
   hero: {
-    title: 'Creative Prototype Converter - AI-Powered Creative Visualization Tool',
-    subtitle: 'Transform your creative concepts into high-fidelity interactive prototypes. Simply describe your ideas, and our AI will automatically generate professional, visually appealing prototype interfaces, perfect for product design, user experience testing, and team collaboration.',
+    title: 'Ideafy AI - AI-Powered Creative Visualization Tool',
+    subtitle: 'Transform your creative concepts into high-fidelity interactive prototypes. Simply describe your ideas, and our AI will automatically create professional, visually appealing interface prototypes, perfect for product design, user experience testing, and team collaboration.',
     tags: {
-      ai: 'AI Smart Design',
+      ai: 'AI Design',
       interactive: 'Interactive Prototype',
       fast: 'Fast Generation',
       professional: 'Professional Output'
@@ -64,28 +64,28 @@ export default {
     noContent: 'No content available'
   },
   features: {
-    title: 'Key Features of Creative Prototype Converter',
+    title: 'Key Features of Ideafy AI',
     subtitle: 'Experience Next-Generation Creative Visualization Tool - Smart Design, Professional Output, Multi-Scenario Application',
     cards: {
       ai: {
-        title: 'AI Smart Design',
-        desc: 'Using advanced AI technology to automatically understand creative requirements and generate professional prototype interfaces'
+        title: 'AI Design',
+        desc: 'Uses advanced AI technology to automatically understand creative requirements and create professional interface prototypes'
       },
       interactive: {
         title: 'Interactive Prototype',
-        desc: 'Generate high-fidelity interactive prototypes that support user operation and experience testing'
+        desc: 'Creates high-quality interactive prototypes that support user interaction and experience testing'
       },
       fast: {
         title: 'Fast Generation',
-        desc: 'Generate complete prototypes in minutes, greatly improving design efficiency'
+        desc: 'Creates complete prototypes in minutes, significantly improving design efficiency'
       },
       professional: {
         title: 'Professional Output',
-        desc: 'Generate professional prototypes that comply with design standards and can be used directly for development'
+        desc: 'Creates professional prototypes that meet design standards and are ready for development'
       },
       customizable: {
         title: 'Highly Customizable',
-        desc: 'Support custom styles, interactions, and layouts to meet different needs'
+        desc: 'Supports custom styles, interactions, and layouts for different needs'
       },
       shareable: {
         title: 'Easy Sharing',
@@ -170,8 +170,8 @@ export default {
     details: 'Error Details'
   },
   login: {
-    title: 'Login to IntroCard AI',
-    subtitle: 'Experience the best features of IntroCard AI: faster document processing and advanced format preservation',
+    title: 'Login to Ideafy AI',
+    subtitle: 'Experience the best features of Ideafy AI: faster document processing and advanced format preservation',
     terms: 'By signing in, you agree to our',
     termsLink: 'Terms of Service and Privacy Policy',
     success: 'Login Successful',
@@ -187,7 +187,7 @@ export default {
   },
   pricing: {
     title: 'Choose Your Plan',
-    subtitle: 'Experience the best features of IntroCard AI: faster document processing and advanced format preservation',
+    subtitle: 'Experience the best features of Ideafy AI: faster document processing and advanced format preservation',
     monthly: 'Monthly subscription',
     yearly: 'Annual subscription (Save 20%)',
     highTier: {

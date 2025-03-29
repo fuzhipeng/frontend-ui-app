@@ -1,6 +1,6 @@
 export default {
   nav: {
-    home: 'Kreative Prototyp-Konverter - KI-gestütztes kreatives Visualisierungstool',
+    home: 'Ideafy AI - KI-gestütztes kreatives Visualisierungstool',
     features: 'Funktionen',
     faq: 'FAQ',
     pricing: 'Preise',
@@ -8,13 +8,13 @@ export default {
     points: 'Punkte: {points}'
   },
   hero: {
-    title: 'Kreative Prototyp-Konverter - KI-gestütztes kreatives Visualisierungstool',
-    subtitle: 'Verwandeln Sie Ihre kreativen Konzepte in interaktive Prototypen mit hoher Wiedergabetreue. Beschreiben Sie einfach Ihre Ideen, und unsere KI generiert automatisch professionelle, visuell ansprechende Prototyp-Schnittstellen, perfekt für Produktdesign, Benutzerfreundlichkeitstests und Teamzusammenarbeit.',
+    title: 'Ideafy AI - KI-gestütztes kreatives Visualisierungstool',
+    subtitle: 'Verwandeln Sie Ihre kreativen Konzepte in hochwertige interaktive Prototypen. Beschreiben Sie einfach Ihre Ideen, und unsere KI erstellt automatisch professionelle, visuell ansprechende Interface-Prototypen, perfekt für Produktdesign, Usability-Tests und Teamzusammenarbeit.',
     tags: {
-      ai: 'KI-Smart-Design',
+      ai: 'KI-Design',
       interactive: 'Interaktiver Prototyp',
       fast: 'Schnelle Generierung',
-      professional: 'Professionelle Ausgabe'
+      professional: 'Professionelles Ergebnis'
     }
   },
   upload: {
@@ -42,28 +42,28 @@ export default {
     noContent: 'Kein Inhalt'
   },
   features: {
-    title: 'Hauptfunktionen des Kreativen Prototyp-Konverters',
-    subtitle: 'Erleben Sie das kreative Visualisierungstool der nächsten Generation - Intelligentes Design, professionelle Ausgabe, Multi-Szenario-Anwendung',
+    title: 'Hauptfunktionen von Ideafy AI',
+    subtitle: 'Erleben Sie das Visualisierungstool der nächsten Generation - Intelligentes Design, professionelle Ergebnisse, Multi-Szenario-Anwendung',
     cards: {
       ai: {
-        title: 'KI-Smart-Design',
-        desc: 'Verwendet fortschrittliche KI-Technologie, um kreative Anforderungen automatisch zu verstehen und professionelle Prototyp-Schnittstellen zu generieren'
+        title: 'KI-Design',
+        desc: 'Verwendet fortschrittliche KI-Technologie, um kreative Anforderungen automatisch zu verstehen und professionelle Interface-Prototypen zu erstellen'
       },
       interactive: {
         title: 'Interaktiver Prototyp',
-        desc: 'Generiert hochwertige interaktive Prototypen, die Benutzerbedienung und Erfahrungstests unterstützen'
+        desc: 'Erstellt hochwertige interaktive Prototypen, die Benutzerinteraktion und Erlebnistests unterstützen'
       },
       fast: {
         title: 'Schnelle Generierung',
-        desc: 'Generiert vollständige Prototypen in Minuten und verbessert die Designeffizienz erheblich'
+        desc: 'Erstellt vollständige Prototypen in Minuten und verbessert die Designeffizienz erheblich'
       },
       professional: {
-        title: 'Professionelle Ausgabe',
-        desc: 'Generiert professionelle Prototypen, die Designstandards entsprechen und direkt für die Entwicklung verwendet werden können'
+        title: 'Professionelles Ergebnis',
+        desc: 'Erstellt professionelle Prototypen, die Designstandards entsprechen und entwicklungsbereit sind'
       },
       customizable: {
         title: 'Hochgradig anpassbar',
-        desc: 'Unterstützt benutzerdefinierte Stile, Interaktionen und Layouts für verschiedene Bedürfnisse'
+        desc: 'Unterstützt benutzerdefinierte Stile, Interaktionen und Layouts für verschiedene Anforderungen'
       },
       shareable: {
         title: 'Einfaches Teilen',
@@ -145,7 +145,7 @@ export default {
     loading: 'Wird geladen...'
   },
   workflow: {
-    title: 'Wie man den Kreativen Prototyp-Konverter verwendet',
+    title: 'So verwenden Sie Ideafy AI',
     subtitle: '3 einfache Schritte zur Umwandlung von Ideen in Prototypen',
     steps: {
       submit: {
@@ -154,17 +154,17 @@ export default {
       },
       generate: {
         title: 'KI-Generierung',
-        desc: 'KI analysiert automatisch Anforderungen und generiert Prototyp'
+        desc: 'KI analysiert automatisch die Anforderungen und erstellt den Prototyp'
       },
       preview: {
         title: 'Vorschau & Optimierung',
-        desc: 'Prototyp-Effekt vorschauen und Anpassungen vornehmen'
+        desc: 'Überprüfen Sie den Prototyp-Effekt und nehmen Sie Anpassungen vor'
       }
     }
   },
   login: {
-    title: 'Bei IntroCard AI anmelden',
-    subtitle: 'Erleben Sie die besten Funktionen von IntroCard AI: Schnellere Dokumentenverarbeitung und erweiterte Formaterhaltung',
+    title: 'Anmelden bei Ideafy AI',
+    subtitle: 'Erleben Sie die besten Funktionen von Ideafy AI: schnellere Dokumentenverarbeitung und erweiterte Formaterhaltung',
     terms: 'Durch die Anmeldung stimmen Sie unseren',
     termsLink: 'Nutzungsbedingungen und Datenschutzrichtlinien zu',
     success: 'Anmeldung erfolgreich',
@@ -187,7 +187,7 @@ export default {
   },
   pricing: {
     title: 'Wählen Sie Ihren Plan',
-    subtitle: 'Erleben Sie die besten Funktionen von IntroCard AI: Schnellere Dokumentenverarbeitung und erweiterte Formaterhaltung',
+    subtitle: 'Erleben Sie die besten Funktionen von Ideafy AI: Schnellere Dokumentenverarbeitung und erweiterte Formaterhaltung',
     monthly: 'Monatsabonnement',
     yearly: 'Jahresabonnement (20% sparen)',
     highTier: {

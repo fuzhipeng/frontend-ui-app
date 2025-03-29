@@ -4,7 +4,7 @@
     <header class="app-header">
       <div class="header-left">
         <router-link to="/" class="logo">
-          <h1 class="app-title">IntroCard AI</h1>
+          <h1 class="app-title">Ideafy AI</h1>
         </router-link>
         <nav class="nav-menu">
           <a href="#features" @click.prevent="scrollToSection('features')">{{ $t('nav.features') }}</a>
@@ -73,7 +73,7 @@
     <!-- 底部版权信息 -->
     <footer class="app-footer">
       <div class="footer-content">
-        <span class="copyright">© {{ new Date().getFullYear() }} • IntroCard AI  保留所有权利。</span>
+        <span class="copyright">© {{ new Date().getFullYear() }} • Ideafy AI  保留所有权利。</span>
         <div class="footer-links">
           <router-link to="/privacy" class="footer-link">隐私政策</router-link>
           <router-link to="/terms" class="footer-link">服务条款</router-link>

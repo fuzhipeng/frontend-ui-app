@@ -1,8 +1,8 @@
 export default {
   nav: {
-    home: '创意原型转换器 - AI驱动的创意可视化工具',
-    features: '功能特点',
-    faq: '常见问题',
+    home: 'Ideafy AI - AI驱动的创意可视化工具',
+    features: '功能',
+    faq: 'FAQ',
     pricing: '价格',
     login: '登录',
     points: '积分: {points}'
@@ -12,31 +12,31 @@ export default {
     loading: '加载中...'
   },
   workflow: {
-    title: '如何使用创意原型转换器',
-    subtitle: '3个简单步骤,将创意转化为原型',
+    title: '如何使用 Ideafy AI',
+    subtitle: '3个简单步骤，将创意转化为原型',
     steps: {
       submit: {
         title: '提交创意',
-        desc: '描述您的创意概念和需求'
+        desc: '描述你的创意概念和需求'
       },
       generate: {
         title: 'AI生成',
-        desc: 'AI自动分析需求并生成原型'
+        desc: 'AI自动分析需求并创建原型'
       },
       preview: {
         title: '预览优化',
-        desc: '预览原型效果并进行调整'
+        desc: '查看原型效果并进行调整'
       }
     }
   },
   hero: {
-    title: '创意原型转换器 - AI驱动的创意可视化工具',
-    subtitle: '将您的创意概念转化为高保真的可交互原型。只需描述您的创意,我们的AI就能自动生成专业的、视觉吸引人的原型界面,完美适用于产品设计、用户体验测试和团队协作。',
+    title: 'Ideafy AI - AI驱动的创意可视化工具',
+    subtitle: '将你的创意概念转化为高保真的交互原型。只需描述你的想法，我们的AI就能自动创建专业、富有视觉吸引力的界面原型，完美适配产品设计、用户体验测试和团队协作。',
     tags: {
-      ai: 'AI智能设计',
-      interactive: '可交互原型',
+      ai: 'AI设计',
+      interactive: '交互原型',
       fast: '快速生成',
-      professional: '专业级输出'
+      professional: '专业效果'
     }
   },
   upload: {
@@ -64,32 +64,32 @@ export default {
     noContent: '暂无内容'
   },
   features: {
-    title: '创意原型转换器的主要功能',
-    subtitle: '体验下一代创意可视化工具 - 智能设计、专业输出、多场景应用',
+    title: 'Ideafy AI 的主要功能',
+    subtitle: '体验下一代创意可视化工具 - 智能设计、专业效果、多场景应用',
     cards: {
       ai: {
         title: 'AI智能设计',
-        desc: '采用先进的AI技术,自动理解创意需求并生成专业的原型界面'
+        desc: '使用先进的AI技术自动理解创意需求，创建专业的界面原型'
       },
       interactive: {
         title: '可交互原型',
-        desc: '生成高保真的可交互原型,支持用户操作和体验测试'
+        desc: '创建支持用户交互和体验测试的高质量交互原型'
       },
       fast: {
         title: '快速生成',
-        desc: '几分钟内即可生成完整的原型,大大提升设计效率'
+        desc: '在几分钟内创建完整原型，大幅提升设计效率'
       },
       professional: {
-        title: '专业级输出',
-        desc: '生成符合设计规范的专业原型,可直接用于开发'
+        title: '专业效果',
+        desc: '创建符合设计规范、可直接用于开发的专业原型'
       },
       customizable: {
-        title: '高度定制',
-        desc: '支持自定义样式、交互和布局,满足不同需求'
+        title: '高度可定制',
+        desc: '支持自定义样式、交互和布局，满足不同需求'
       },
       shareable: {
         title: '便捷分享',
-        desc: '一键分享原型,方便团队协作和收集反馈'
+        desc: '一键分享原型，实现团队协作和反馈收集'
       }
     },
     examples: {
@@ -186,8 +186,8 @@ export default {
     details: '错误详情'
   },
   login: {
-    title: '登录到 IntroCard AI',
-    subtitle: '体验 IntroCard AI 的最佳功能：更快的文档处理速度和高级格式保留能力',
+    title: '登录到 Ideafy AI',
+    subtitle: '体验 Ideafy AI 的最佳功能：更快的文档处理速度和高级格式保留能力',
     terms: '登录即表示您同意我们的',
     termsLink: '服务条款和隐私政策',
     success: '登录成功',
@@ -203,7 +203,7 @@ export default {
   },
   pricing: {
     title: '选择您的计划',
-    subtitle: '体验 IntroCard AI 的最佳功能：更快的文档处理速度和高级格式保留能力',
+    subtitle: '体验 Ideafy AI 的最佳功能：更快的文档处理速度和高级格式保留能力',
     monthly: '月度订阅',
     yearly: '年度订阅（节省20%）',
     highTier: {
@@ -272,15 +272,15 @@ export default {
         },
         {
           question: '我可以使用该产品获得帮助吗？',
-          answer: '是的！\n您可以通过电子邮件support@introcard.ai与我们联系，以获取所需的任何帮助。'
+          answer: '是的！\n您可以通过电子邮件support@ideafy.ai与我们联系，以获取所需的任何帮助。'
         },
         {
           question: '企业级别是什么？',
-          answer: '如果您有独特的用例，并且想了解有关定价的更多信息，请通过sales@introcard.ai与我们联系。'
+          answer: '如果您有独特的用例，并且想了解有关定价的更多信息，请通过sales@ideafy.ai与我们联系。'
         },
         {
           question: '我必须是付费用户才能将转换后的文档用于商业用途吗？',
-          answer: '否。只要您尊重使用条款，就可以自由使用我们的文档转换功能，无论是个人、学术还是商业用途！\n如果您是免费用户，请在使用时注明文档由IntroCard AI转换。'
+          answer: '否。只要您尊重使用条款，就可以自由使用我们的文档转换功能，无论是个人、学术还是商业用途！\n如果您是免费用户，请在使用时注明文档由Ideafy AI转换。'
         },
         {
           question: '我的订阅包括API访问吗？',
@@ -295,7 +295,7 @@ export default {
     sections: {
       intro: {
         title: '引言',
-        content: '在IntroCard AI，我们非常重视您的隐私。本隐私政策说明了我们在您使用我们的AI数据分析服务（introcard.ai，以下简称"服务"）时如何收集、使用和保护您的信息。'
+        content: '在Ideafy AI，我们非常重视您的隐私。本隐私政策说明了我们在您使用我们的AI数据分析服务（ideafy.ai，以下简称"服务"）时如何收集、使用和保护您的信息。'
       },
       noCollection: {
         title: '我们不收集的信息',
@@ -354,7 +354,7 @@ export default {
       },
       contact: {
         title: '联系信息',
-        content: '如果您对本隐私政策有任何问题，请通过support@introcard.ai联系我们。'
+        content: '如果您对本隐私政策有任何问题，请通过support@ideafy.ai联系我们。'
       },
       legal: {
         title: '法律依据',
@@ -368,11 +368,11 @@ export default {
     sections: {
       acceptance: {
         title: '条款接受',
-        content: '欢迎使用IntroCard AI。访问或使用我们的服务即表示您同意受这些条款的约束。如果您不同意这些条款的任何部分，请不要使用我们的服务。'
+        content: '欢迎使用Ideafy AI。访问或使用我们的服务即表示您同意受这些条款的约束。如果您不同意这些条款的任何部分，请不要使用我们的服务。'
       },
       description: {
         title: '服务说明',
-        content: 'IntroCard AI提供AI驱动的文档提取和转换服务。我们的服务包括：',
+        content: 'Ideafy AI提供AI驱动的文档提取和转换服务。我们的服务包括：',
         items: [
           'AI智能文档分析',
           '文章精华提取',
