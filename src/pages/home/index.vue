@@ -697,12 +697,6 @@ const startConvert = async () => {
     return
   }
 
-  if (!userStore.isAuthenticated) {
-    ElMessage.warning(t('input.needLogin'))
-    loginDialog.value?.open()
-    return
-  }
-
   try {
     isConverting.value = true
     converting.value = true
